@@ -1,0 +1,37 @@
+[
+  {
+    "storeName": "Mikronis",
+    "url": "https://www.mikronis.hr/Proizvod/ssd-500gb-wd-black-sn770m-m-2-2230-nvme-ssd-wds500g3x0g/42483",
+    "productName": "SSD 500GB WD Black SN770M M.2 2230 NVMe SSD, WDS500G3X0G",
+    "priceValue": 89,
+    "imageUrl": "https://www.mikronis.hr/_shop/files/products/29925-2965_PastedPicture_2024_02_21_1514.jpg?preset=product-fullsize&amp;id=2190534"
+  },
+  {
+    "storeName": "Abrakadabra",
+    "url": "https://www.abrakadabra.com/p//Katalog-Racunala-i-periferija-Komponente/Icy-Box-rashladni-element-za-M.2-SSD-IB-M2HS-70-/p/800IG7Q",
+    "productName": "Icy Box rashladni element za M.2 SSD IB-M2HS-70 ",
+    "priceValue": 9.16,
+    "imageUrl": "https://www.abrakadabra.com/medias/510Wx510H-4250078166405-1.webp?context=bWFzdGVyfGltYWdlc3wxODAwfHdlYnB8YURSakwyZ3dNeTh4TURNeE1qUXpOakU0TnpFMk5pODFNVEJYZURVeE1FaGZOREkxTURBM09ERTJOalF3TlY4eExuZGxZbkF8NjU2YjcyOGFmZTA0Y2MxMGYwMWRkZDgyYzAxODAzODg1ZGI1NDA0MDM3ODY0MWM3OTgyOWQ1MWVjZjgyZmI4Zg"
+  },
+  {
+    "storeName": "HG Spot",
+    "url": "https://www.hgspot.hr/adapter-gembird-mf-321-za-ugradnju-2-5-ssd-hdd-u-3-5-kuciste",
+    "productName": "Adapter GEMBIRD MF-321, za ugradnju 2.5\" SSD/HDD u 3.5\" kućište",
+    "priceValue": 3.32,
+    "imageUrl": "https://www.hgspot.hr/image/cache/catalog/slike/104988-878-640x480.jpg?v=1.1839904723"
+  },
+  {
+    "storeName": "eKupi",
+    "url": "https://www.ekupi.hr/p//Ra%C4%8Dunala/Ra%C4%8Dunala-i-periferija/Ra%C4%8Dunalne-komponente/Tvrdi-diskovi/SSD/SSD-240GB-Crucial-BX500-2-5%22-%28CT240BX500SSD1%29/p/EK000279504",
+    "productName": "SSD 240GB Crucial BX500 2.5\" (CT240BX500SSD1)",
+    "priceValue": 29.19,
+    "imageUrl": "https://yekupi.blob.core.windows.net/ekupihr/515Wx515H/EK000279504_1.image"
+  },
+  {
+    "storeName": "Instar informatika",
+    "url": "https://www.instar-informatika.hr/ssd-kingston-a400-25-240gb-sata3-6gbs-r500w350/58579/product/",
+    "productName": "SSD Kingston A400, 2.5\", 240GB, SATA3 6Gb/s, R500/W350",
+    "priceValue": 33,
+    "imageUrl": "https://www.instar-informatika.hr/slike/velike/ssd-kingston-a400-r500-w350-240gb-7mm-25-king-sa400-240g_4.jpg"
+  }
+]
